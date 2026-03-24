@@ -43,19 +43,19 @@ This project analyzes customer churn in a telecom company to identify key factor
 ## 📸 Project Screenshots
 
 ### 🔹 Churn Distribution
-![Churn](screenshots/churn_distribution.png)
+![Churn](screenshots/churn_distribution.png.png)
 
 ### 🔹 Monthly Charges vs Churn
-![Charges](screenshots/monthly_charges.png)
+![Charges](screenshots/monthly_charges.png.png)
 
 ### 🔹 Contract vs Churn
-![Contract](screenshots/contract_analysis.png)
+![Contract](screenshots/contract_analysis.png.png)
 
 ### 🔹 Payment Method vs Churn
-![Payment](screenshots/payment_method.png)
+![Payment](screenshots/payment_method.png.png)
 
 ### 🔹 Customer Segmentation
-![Tenure](screenshots/tenure_pie.png)
+![Tenure](screenshots/tenure_pie.png.png)
 
 ## 🚀 Conclusion
 Customer churn is influenced by pricing, contract type, and payment method. Companies should focus on long-term customer retention strategies.
