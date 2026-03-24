@@ -43,7 +43,7 @@ This project analyzes customer churn in a telecom company to identify key factor
 ## 📸 Project Screenshots
 
 ### 🔹 Churn Distribution
-![Churn]("C:\Users\asus\OneDrive\Desktop\Churn project\Screenshorts\churn_distribution.png.png")
+![Churn](C:\Users\asus\OneDrive\Desktop\Churn project\Screenshorts\churn_distribution.png.png)
 
 ### 🔹 Monthly Charges vs Churn
 ![Charges](screenshots/monthly_charges.png.png)
