@@ -46,13 +46,13 @@ This project analyzes customer churn in a telecom company to identify key factor
 ![Churn](Screenshorts/churn_distribution.png.png)
 
 ### 🔹 Monthly Charges vs Churn
-![Charges](screenshots/monthly_charges.png)
+![Charges](screenshorts/monthly_charges.png.png)
 
 ### 🔹 Contract vs Churn
-![Contract](screenshots/contract_analysis.png)
+![Contract](screenshots/contract_analysis.png.png)
 
 ### 🔹 Payment Method vs Churn
-![Payment](screenshots/payment_method.png)
+![Payment](screenshorts/payment_method.png)
 
 ### 🔹 Customer Segmentation
 ![Tenure](screenshots/tenure_pie.png)
