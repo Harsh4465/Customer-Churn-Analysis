@@ -49,7 +49,7 @@ This project analyzes customer churn in a telecom company to identify key factor
 ![Charges]([screenshots/monthly_charges.png.png](https://github.com/Harsh4465/Customer-Churn-Analysis/blob/main/Churn%20project/Screenshorts/monthly_charges.png.png))
 
 ### 🔹 Contract vs Churn
-![Contract](screenshots/contract_analysis.png.png)
+![Contract]([screenshots/contract_analysis.png.png](https://github.com/Harsh4465/Customer-Churn-Analysis/blob/main/Churn%20project/Screenshorts/contract_analysis.png.png))
 
 ### 🔹 Payment Method vs Churn
 ![Payment](screenshots/payment_method.png.png)
